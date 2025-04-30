@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "224740141848",
+    "firebase_url": "https://go-healthy-283-project-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "go-healthy-283-project-app",
+    "storage_bucket": "go-healthy-283-project-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224740141848:android:dfaae2ff81a09fe9a54c6d",
+        "android_client_info": {
+          "package_name": "com.example.go_healthy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3w2bFKTd5iw4rygASIfcMfgTUcG0-HAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
